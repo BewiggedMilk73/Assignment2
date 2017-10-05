@@ -5,7 +5,8 @@
     
 }
 img {
-    margin-left: 180px;
+    margin-left: 100px;
+       width: 80vw;
 }
 
 h1 {
@@ -15,6 +16,7 @@ h1 {
 
 body {
     background-color: deepskyblue
+     
 }
 
 data {
